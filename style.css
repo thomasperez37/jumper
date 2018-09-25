@@ -1,0 +1,41 @@
+#player {
+    width: 100px; 
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+.platform {
+    width: 100px; 
+    height: 100px;
+    background-color: orange;
+    position: absolute;
+}
+
+#one {
+    margin-top: 400px;
+}
+
+#two {
+    margin-top: 400px;
+    margin-left: 100px;
+}
+
+#three {
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+#four {
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+#five {
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+#six {
+    margin-top: 200px;
+    margin-left: 500px;
+}
